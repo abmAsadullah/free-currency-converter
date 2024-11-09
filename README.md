@@ -1,26 +1,28 @@
-# Free Currency Converter💱
+# Alzaf E-Commerce Site💱
 
-"Free Currency Converter" is a simple and efficient application that allows users to convert currencies in real-time 🌍. It provides up-to-date exchange rates, making it easy to convert between different currencies with just a few clicks.
+This is an E-Commerce site front page.
 
 <hr/>
 
-![image](https://github.com/user-attachments/assets/3f89ecd4-58e5-41e5-89b7-060e0c29a615)
+![image](https://github.com/user-attachments/assets/967955fd-70e4-40c8-a285-7e1a87177a4b)
 
 <hr />
 
 ## Built With
 
-- HTML
-- CSS
-- JavsScript
+- HTML/CSS
+- TypeScript
 - React
+- Nextjs
+- Tailwind CSS
+- Shad CN
 - API
 - Netlify
 - Github
 
 ## Live Demo
 
-[Live Demo Link](https://free-currency-converter.netlify.app/)
+[Live Demo Link](https://alzaf-e-commerce.netlify.app/)
 
 ## Author
 
